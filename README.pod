@@ -1,0 +1,40 @@
+=encoding utf8
+
+=head1 Name
+
+WWW::Spyder -
+
+=head1 Cards
+
+=head2 Spyder
+
+Manages a queue.
+
+The spyder doesE<ndash>
+
+=over 4
+
+=item *
+
+=back
+
+=head2 Queue -> AKA, Storage
+
+The queue contains pages and doesE<ndash>
+
+=over 4
+
+=item *
+
+=back
+
+=head2 Page
+
+A page doesE<ndash>
+
+=over 4
+
+=item *
+
+=back
+
